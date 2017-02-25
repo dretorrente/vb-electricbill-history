@@ -1,0 +1,94 @@
+C:\Users\User\documents\visual studio 2010\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\User\documents\visual studio 2010\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\User\documents\visual studio 2010\Projects\system\system\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\User\documents\visual studio 2010\Projects\system\system\obj\x86\Debug\system.vbproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2010\Projects\system\system\bin\Debug\system.exe
+C:\Users\User\documents\visual studio 2010\Projects\system\system\bin\Debug\system.pdb
+C:\Users\User\documents\visual studio 2010\Projects\system\system\bin\Debug\system.xml
+C:\Users\User\documents\visual studio 2010\Projects\system\system\obj\x86\Debug\system.exe
+C:\Users\User\documents\visual studio 2010\Projects\system\system\obj\x86\Debug\system.xml
+C:\Users\User\documents\visual studio 2010\Projects\system\system\obj\x86\Debug\system.pdb
+C:\Users\User\documents\visual studio 2010\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\User\documents\visual studio 2010\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\User\documents\visual studio 2010\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\User\documents\visual studio 2010\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\User\documents\visual studio 2010\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\TORRENTE\Desktop\Visual Studio 2010\Projects\system\system\obj\x86\Debug\system.exe
+C:\Users\TORRENTE\Desktop\Visual Studio 2010\Projects\system\system\obj\x86\Debug\system.xml
+C:\Users\TORRENTE\Desktop\Visual Studio 2010\Projects\system\system\obj\x86\Debug\system.pdb
+C:\Users\TORRENTE\Desktop\Visual Studio 2010\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\TORRENTE\Desktop\Visual Studio 2010\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\TORRENTE\Desktop\Visual Studio 2010\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\TORRENTE\Desktop\Visual Studio 2010\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\TORRENTE\Desktop\Visual Studio 2010\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\TORRENTE\Desktop\Visual Studio 2010\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\TORRENTE\Desktop\Visual Studio 2010\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\TORRENTE\Desktop\Visual Studio 2010\Projects\system\system\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\TORRENTE\Desktop\Visual Studio 2010\Projects\system\system\obj\x86\Debug\system.vbproj.GenerateResource.Cache
+C:\Users\TORRENTE\Desktop\Visual Studio 2010\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\TORRENTE\Desktop\Visual Studio 2010\Projects\system\system\bin\Debug\loginDB.accdb
+C:\Users\TORRENTE\Desktop\Visual Studio 2010\Projects\system\system\bin\Debug\master.accdb
+C:\Users\TORRENTE\Desktop\Visual Studio 2010\Projects\system\system\bin\Debug\system.exe.config
+C:\Users\TORRENTE\Desktop\Visual Studio 2010\Projects\system\system\bin\Debug\system.exe
+C:\Users\TORRENTE\Desktop\Visual Studio 2010\Projects\system\system\bin\Debug\system.pdb
+C:\Users\TORRENTE\Desktop\Visual Studio 2010\Projects\system\system\bin\Debug\system.xml
+C:\Users\TORRENTE\Desktop\Visual Studio 2010-new\Projects\system\system\bin\Debug\system.exe.config
+C:\Users\TORRENTE\Desktop\Visual Studio 2010-new\Projects\system\system\obj\x86\Debug\system.exe
+C:\Users\TORRENTE\Desktop\Visual Studio 2010-new\Projects\system\system\obj\x86\Debug\system.xml
+C:\Users\TORRENTE\Desktop\Visual Studio 2010-new\Projects\system\system\obj\x86\Debug\system.pdb
+C:\Users\TORRENTE\Desktop\Visual Studio 2010-new\Projects\system\system\bin\Debug\loginDB.accdb
+C:\Users\TORRENTE\Desktop\Visual Studio 2010-new\Projects\system\system\bin\Debug\master.accdb
+C:\Users\TORRENTE\Desktop\Visual Studio 2010-new\Projects\system\system\bin\Debug\system.exe
+C:\Users\TORRENTE\Desktop\Visual Studio 2010-new\Projects\system\system\bin\Debug\system.pdb
+C:\Users\TORRENTE\Desktop\Visual Studio 2010-new\Projects\system\system\bin\Debug\system.xml
+C:\Users\TORRENTE\Desktop\Visual Studio 2010-new\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\TORRENTE\Desktop\Visual Studio 2010-new\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\TORRENTE\Desktop\Visual Studio 2010-new\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\TORRENTE\Desktop\Visual Studio 2010-new\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\TORRENTE\Desktop\Visual Studio 2010-new\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\TORRENTE\Desktop\Visual Studio 2010-new\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\TORRENTE\Desktop\Visual Studio 2010-new\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\TORRENTE\Desktop\Visual Studio 2010-new\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\TORRENTE\Desktop\Visual Studio 2010-new\Projects\system\system\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\TORRENTE\Desktop\Visual Studio 2010-new\Projects\system\system\obj\x86\Debug\system.vbproj.GenerateResource.Cache
+C:\Users\TORRENTE\Desktop\Visual Studio 2010-new\Projects\system\system\bin\Debug\sample.accdb
+C:\Users\TORRENTE\Desktop\Visual Studio 2010-new\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Users\TEST\Documents\Meralco\Projects\system\system\bin\Debug\system.exe.config
+C:\Users\TEST\Documents\Meralco\Projects\system\system\obj\x86\Debug\system.exe
+C:\Users\TEST\Documents\Meralco\Projects\system\system\obj\x86\Debug\system.xml
+C:\Users\TEST\Documents\Meralco\Projects\system\system\obj\x86\Debug\system.pdb
+C:\Users\TEST\Documents\Meralco\Projects\system\system\bin\Debug\loginDB.accdb
+C:\Users\TEST\Documents\Meralco\Projects\system\system\bin\Debug\master.accdb
+C:\Users\TEST\Documents\Meralco\Projects\system\system\bin\Debug\sample.accdb
+C:\Users\TEST\Documents\Meralco\Projects\system\system\bin\Debug\system.exe
+C:\Users\TEST\Documents\Meralco\Projects\system\system\bin\Debug\system.pdb
+C:\Users\TEST\Documents\Meralco\Projects\system\system\bin\Debug\system.xml
+C:\Users\TEST\Documents\Meralco\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\TEST\Documents\Meralco\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\TEST\Documents\Meralco\Projects\system\system\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\TEST\Documents\Meralco\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\TEST\Documents\Meralco\Projects\system\system\bin\Debug\ServicesInfo.accdb
+C:\Users\TEST\Documents\Meralco\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\TEST\Documents\Meralco\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\TEST\Documents\Meralco\Projects\system\system\obj\x86\Debug\system.vbproj.GenerateResource.Cache
+C:\Users\TEST\Documents\Meralco\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\TEST\Documents\Meralco\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\TEST\Documents\Meralco\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\TEST\Documents\Meralco\Projects\system\system\obj\x86\Debug\Interop.ADOX.dll
+C:\Users\TEST\Documents\Meralco\Projects\system\system\obj\x86\Debug\system.vbproj.ResolveComReference.cache
+C:\Users\TEST\Documents\Meralco\Projects\system\system\bin\Debug\admin.mdb
+C:\Users\TEST\Documents\Meralco\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Users\TEST\Documents\Meralco\Projects\system\system\obj\x86\Debug\WindowsApplication1.Form10.resources
+C:\Users\TEST\Documents\Meralco\Projects\system\system\obj\x86\Debug\WindowsApplication1.April.resources
+C:\Users\TEST\Documents\Meralco\Projects\system\system\obj\x86\Debug\WindowsApplication1.Aug.resources
+C:\Users\TEST\Documents\Meralco\Projects\system\system\obj\x86\Debug\WindowsApplication1.Dec.resources
+C:\Users\TEST\Documents\Meralco\Projects\system\system\obj\x86\Debug\WindowsApplication1.Feb.resources
+C:\Users\TEST\Documents\Meralco\Projects\system\system\obj\x86\Debug\WindowsApplication1.Jan.resources
+C:\Users\TEST\Documents\Meralco\Projects\system\system\obj\x86\Debug\WindowsApplication1.July.resources
+C:\Users\TEST\Documents\Meralco\Projects\system\system\obj\x86\Debug\WindowsApplication1.June.resources
+C:\Users\TEST\Documents\Meralco\Projects\system\system\obj\x86\Debug\WindowsApplication1.March.resources
+C:\Users\TEST\Documents\Meralco\Projects\system\system\obj\x86\Debug\WindowsApplication1.May.resources
+C:\Users\TEST\Documents\Meralco\Projects\system\system\obj\x86\Debug\WindowsApplication1.Nov.resources
+C:\Users\TEST\Documents\Meralco\Projects\system\system\obj\x86\Debug\WindowsApplication1.Oct.resources
+C:\Users\TEST\Documents\Meralco\Projects\system\system\obj\x86\Debug\WindowsApplication1.Sep.resources
+C:\Users\TEST\Documents\Meralco\Projects\system\system\obj\x86\Debug\WindowsApplication1.Average.resources
